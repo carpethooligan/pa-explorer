@@ -36,7 +36,7 @@ python3 main.py
 ```
 
 # Output
-The result will spit out dates processed and finally bar by bar statistics for chance of having seen HOD/LOD by that bar:
+The result will spit out dates processed and finally bar by bar statistics for chance of having seen HOD/LOD by that bar, assuming that module was selected for testing:
 ```
 2022-01-03
 2022-01-04
